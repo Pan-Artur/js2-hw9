@@ -10,6 +10,7 @@
   },
   "author": "Artur Pankovets",
   "license": "ISC",
+  "homepage": "https://pan-artur.github.io/js2-hw9/",
   "dependencies": {
     "gh-pages": "^6.2.0",
     "parcel": "^2.13.3"
